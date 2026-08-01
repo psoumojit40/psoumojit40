@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="./banner.svg" width="100%" />
+<img src="./assets/banner.svg" width="100%" />
 
 </p>
 
@@ -163,12 +163,12 @@ Currently, I'm exploring advanced **3D web graphics**, immersive animations, and
 
 <p align="center">
 
-<img src="./divider.svg"/>
+<img src="./assets/divider.svg"/>
 
 </p>
 <p align="center">
 
-<img src="./divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </p>
 
@@ -360,12 +360,12 @@ Next.js • TypeScript • Express • MongoDB
 
 <p align="center">
 
-<img src="./divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </p>
 <p align="center">
 
-<img src="./divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 </p>
 
@@ -533,7 +533,7 @@ Full Stack Development • Frontend Engineering • Open Source • Freelance �
 
 <p align="center">
 
-<img src="./footer.svg" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
 
 </p>
 
