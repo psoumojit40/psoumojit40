@@ -1,16 +1,18 @@
 <!-- ===================================================== -->
 <!--                  SOUMOJIT PAUL                         -->
-<!--        Premium GitHub Profile - Version 2.5            -->
+<!--        Premium GitHub Profile - Version 3.0            -->
 <!-- ===================================================== -->
 
+<!-- ⚡ ANIMATED HERO BANNER -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" />
+  <img src="./assets/banner.svg?v=2" width="100%" />
 </p>
 
 <br>
 
+<!-- 🎯 TYPING SVG HEADER & BADGES -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Hello+World!+%F0%9F%91%8B;I'm+Soumojit+Paul;Full+Stack+Developer;Building+Immersive+Web+Experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Three.js;Always+Learning+Something+New." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Hello+World!+%F0%9F%91%8B;I'm+Soumojit+Paul;Full+Stack+Developer;Building+Immersive+3D+Web+Experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Three.js;Always+Learning+Something+New." />
 </h1>
 
 <p align="center">
@@ -33,37 +35,52 @@
 
 <br>
 
-<!-- 🏆 GITHUB TROPHIES -->
+<!-- 🏆 GITHUB PROFILE TROPHIES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=psoumojit40&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 </p>
 
----
+<br>
+
+<!-- 🪪 ABOUT ME & SWINGING LANYARD ID BADGE -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
 # 👋 About Me
 
 ```diff
-+ Full Stack Developer
++ Full Stack Developer & UI Engineer
 + Passionate about immersive web experiences
 + Building modern products using React, Next.js and Three.js
-+ Focused on UI Engineering, Performance and Scalability
++ Focused on 3D Web Graphics, Performance and Scalability
 + Always learning advanced frontend technologies
 ```
 
 <br>
 
-I’m **Soumojit Paul**, an MCA student at **Future Institute of Engineering and Management (FIEM)** and a passionate **Full Stack Developer** specializing in modern JavaScript technologies.
+I’m **Soumojit Paul**, an MCA student at **Future Institute of Engineering and Management (FIEM)** and a passionate **Full Stack Developer** specializing in modern JavaScript &amp; 3D web technologies.
 
-My primary focus is creating **premium digital experiences** using **React**, **Next.js**, **Three.js**, **Framer Motion**, and scalable backend technologies. I enjoy blending engineering with design to build interfaces that are visually engaging, performant, and intuitive.
+My primary focus is creating **premium digital experiences** using **React**, **Next.js**, **Three.js**, **Framer Motion**, and scalable backend services.
 
-Currently, I'm exploring advanced **3D web graphics**, immersive animations, and interactive user experiences to push the boundaries of what can be achieved on the web.
+Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and interactive user experiences to push the boundaries of what can be achieved on the web.
 
 <br>
 
 <!-- 💻 CYBER TERMINAL STATUS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=750&height=90&lines=System.init(%22Soumojit+Paul%22);;Location%3A+Kolkata%2C+India;;Status%3A+Building+3D+Web+Experiences+%E2%9A%A1;;Stack%3A+Next.js+%E2%80%A2+Three.js+%E2%80%A2+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=System.init(%22Soumojit+Paul%22);;Location%3A+Kolkata%2C+India;;Status%3A+Building+3D+Web+Experiences+%E2%9A%A1;;Stack%3A+Next.js+%E2%80%A2+Three.js+%E2%80%A2+TypeScript" />
 </p>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<!-- 🪪 SWINGING LANYARD SVG -->
+<img src="./assets/lanyard.svg?v=1" width="380" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,10 +101,9 @@ Currently, I'm exploring advanced **3D web graphics**, immersive animations, and
 
 ### 📚 Learning
 - Advanced Three.js
-- React Fiber
-- WebGL
-- GSAP
-- Motion Design
+- React Three Fiber
+- WebGL &amp; GLSL Shaders
+- GSAP &amp; Framer Motion
 
 </td>
 </tr>
@@ -324,8 +340,6 @@ Every project I build is guided by three principles:
 - ⚡ High Performance
 - 🧩 Clean & Maintainable Architecture
 
-I enjoy transforming complex ideas into elegant digital experiences by combining thoughtful design with scalable engineering.
-
 ---
 
 # 🎯 2026 Goals
@@ -395,7 +409,7 @@ Inspired by great storytelling, creativity, and visual design.
 ---
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" />
+  <img src="./assets/footer.svg" width="100%" opacity="0.8"/>
 </p>
 
 <p align="center">
