@@ -5,7 +5,7 @@
 
 <!-- ⚡ ANIMATED HERO BANNER -->
 <p align="center">
-  <img src="./assets/banner.svg?v=2" width="100%" />
+  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/banner.svg?v=2" width="100%" />
 </p>
 
 <br>
@@ -76,14 +76,14 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 <td width="40%" align="center" valign="middle">
 
 <!-- 🪪 SWINGING LANYARD SVG -->
-<img src="./assets/lanyard.svg?v=1" width="380" />
+<img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/lanyard.svg?v=1" width="380" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/divider.svg" width="100%"/>
 </p>
 
 <!-- 🚀 CURRENT FOCUS & LEARNING MATRIX -->
@@ -157,7 +157,7 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/divider.svg" width="100%"/>
 </p>
 
 <!-- 🌟 FEATURED PROJECTS -->
@@ -391,7 +391,7 @@ Drawing inspiration from world-building, animation frames &amp; visual storytell
 ---
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/footer.svg" width="100%" />
 </p>
 
 <p align="center">
