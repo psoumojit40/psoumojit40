@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#0c1010"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00ff88"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <!-- Grid -->
+  <g opacity="0.15">
+    <path d="M0 450 H1600" stroke="#00ff88"/>
+    <path d="M0 400 H1600" stroke="#00ff88"/>
+    <path d="M0 350 H1600" stroke="#00ff88"/>
+    <path d="M0 300 H1600" stroke="#00ff88"/>
+    <path d="M200 0 V500" stroke="#00ff88"/>
+    <path d="M400 0 V500" stroke="#00ff88"/>
+    <path d="M600 0 V500" stroke="#00ff88"/>
+    <path d="M800 0 V500" stroke="#00ff88"/>
+    <path d="M1000 0 V500" stroke="#00ff88"/>
+    <path d="M1200 0 V500" stroke="#00ff88"/>
+    <path d="M1400 0 V500" stroke="#00ff88"/>
+  </g>
+
+  <circle cx="1260" cy="150" r="70" fill="none" stroke="url(#accent)" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="r" values="68;74;68" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Desk -->
+  <rect x="1020" y="250" width="330" height="12" rx="5" fill="#00ff88" opacity="0.8"/>
+
+  <!-- Monitor -->
+  <rect x="1085" y="120" width="200" height="120" rx="10" fill="#111" stroke="#00ff88" stroke-width="3" filter="url(#glow)"/>
+  <rect x="1100" y="135" width="170" height="90" fill="#001b13"/>
+  <text x="1115" y="165" fill="#00ff88" font-family="monospace" font-size="14">&lt;/&gt; next dev</text>
+  <text x="1115" y="190" fill="#00e5ff" font-family="monospace" font-size="13">npm run build</text>
+
+  <line x1="1185" y1="240" x2="1185" y2="260" stroke="#00ff88" stroke-width="4"/>
+
+  <text x="90" y="165" fill="#ffffff" font-size="54" font-family="Segoe UI, Arial" font-weight="700">
+    SOUMOJIT PAUL
+  </text>
+
+  <text x="92" y="215" fill="#00ff88" font-size="28" font-family="Segoe UI, Arial">
+    Full Stack Developer
+  </text>
+
+  <text x="92" y="255" fill="#d6d6d6" font-size="24" font-family="Segoe UI, Arial">
+    Crafting Immersive Digital Experiences
+  </text>
+
+  <text x="92" y="325" fill="#00e5ff" font-size="18" font-family="Consolas">
+    React • Next.js • Three.js • Node.js • PostgreSQL • MongoDB
+  </text>
+
+  <line x1="92" y1="350" x2="640" y2="350" stroke="url(#accent)" stroke-width="3">
+    <animate attributeName="x2" values="250;640;250" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="760" cy="90" r="3" fill="#00ff88">
+    <animate attributeName="cy" values="90;70;90" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="810" cy="140" r="2" fill="#00e5ff">
+    <animate attributeName="cy" values="140;110;140" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
