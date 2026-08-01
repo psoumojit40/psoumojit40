@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
 <!--                  SOUMOJIT PAUL                         -->
-<!--        Premium GitHub Profile - Version 3.0            -->
+<!--        Premium GitHub Profile - Version 3.5            -->
 <!-- ===================================================== -->
 
 <!-- ⚡ ANIMATED HERO BANNER -->
@@ -82,28 +82,31 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</p>
 
-# 🚀 Current Focus
+<!-- 🚀 CURRENT FOCUS & LEARNING MATRIX -->
+# 🚀 Engineering Focus & Roadmap
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌌 Building
-- Premium Portfolio
-- Interactive 3D Websites
-- Enterprise Applications
-- Full Stack Products
+### 🌌 Currently Building
+- ⚡ **3D Developer Portfolio**: Immersive WebGL &amp; Three.js interactions.
+- ⌚ **Luxury Brand Web App**: Cinematic smooth scrolling &amp; 3D watch rendering.
+- 👕 **ClosetBridge AI**: Computer vision donation platform for NGOs.
+- 🏢 **Enterprise Team Hub**: RBAC leave management system with AI assistance.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Learning
-- Advanced Three.js
-- React Three Fiber
-- WebGL &amp; GLSL Shaders
-- GSAP &amp; Framer Motion
+### 📚 Currently Exploring
+- 🌀 **Three.js &amp; R3F**: Custom shader materials (`GLSL`), post-processing &amp; lighting.
+- ⚡ **Modern Frontend**: Next.js App Router, Server Actions &amp; Performance Tuning.
+- 🎨 **Motion Design**: Framer Motion, GSAP ScrollTrigger &amp; Micro-interactions.
+- 🚀 **Scalable Backend**: Redis caching, PostgreSQL schema optimization &amp; Docker.
 
 </td>
 </tr>
@@ -111,51 +114,64 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 
 ---
 
-# ⚡ Tech Arsenal
+<!-- ⚡ TECH ARSENAL HUD -->
+# ⚡ Tech Arsenal HUD
 
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,redux,tailwind,html,css"/>
-</p>
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+  <h4>🎨 Frontend</h4>
+  <p><code>React</code> • <code>Next.js</code></p>
+  <p><code>TypeScript</code> • <code>JavaScript</code></p>
+  <p><code>Three.js</code> • <code>TailwindCSS</code></p>
+  <p><code>Redux Toolkit</code></p>
+</td>
+<td width="25%" align="center" valign="top">
+  <h4>⚙ Backend</h4>
+  <p><code>Node.js</code> • <code>Express.js</code></p>
+  <p><code>REST APIs</code> • <code>JWT Auth</code></p>
+  <p><code>Server Actions</code></p>
+  <p><code>Microservices</code></p>
+</td>
+<td width="25%" align="center" valign="top">
+  <h4>🗄 Databases</h4>
+  <p><code>PostgreSQL</code></p>
+  <p><code>MongoDB</code></p>
+  <p><code>Redis Cache</code></p>
+  <p><code>Prisma ORM</code></p>
+</td>
+<td width="25%" align="center" valign="top">
+  <h4>🛠 Dev Tools</h4>
+  <p><code>Git</code> • <code>GitHub</code></p>
+  <p><code>VS Code</code> • <code>Figma</code></p>
+  <p><code>Vercel</code> • <code>Postman</code></p>
+  <p><code>Docker</code></p>
+</td>
+</tr>
+</table>
 
----
-
-## ⚙ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
----
-
-## 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-</p>
-
----
-
-## 🛠 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
----
+<br>
 
 <p align="center">
-  <img src="./assets/divider.svg"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,redux,tailwind,nodejs,express,postgres,mongodb,redis,git,github,vscode,figma&perline=8"/>
 </p>
 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</p>
+
+<!-- 🌟 FEATURED PROJECTS -->
 # 🌟 Featured Projects
 
-> Every project below focuses on solving real-world problems with modern technologies and polished user experiences.
+> High-impact projects built with precision, performance, and modern web design principles.
 
 <br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🌐 Developer Portfolio</h3>
+<h3 align="center">🌐 3D Interactive Portfolio</h3>
 
 <p align="center">
   <a href="https://soumojitpaul.me"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -163,71 +179,67 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 </p>
 
 <p>
-A premium developer portfolio focused on immersive UI, interactive 3D animations and modern frontend engineering.
+A flagship developer portfolio designed with 3D canvas objects, dynamic camera controls, smooth page transitions, and dark neon aesthetics.
 </p>
 
 <p>
-<strong>Tech Stack:</strong><br>
-<code>React</code> • <code>Next.js</code> • <code>Three.js</code> • <code>Framer Motion</code> • <code>TailwindCSS</code>
+<strong>Key Stack:</strong> <code>React</code> • <code>Next.js</code> • <code>Three.js</code> • <code>Framer Motion</code> • <code>TailwindCSS</code>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">⌚ Watch Brand Website</h3>
+<h3 align="center">⌚ Luxury Watch Showcase</h3>
 
 <p align="center">
   <a href="https://github.com/psoumojit40/watch-brand-website"><img src="https://img.shields.io/badge/GitHub_Repo-00FF88?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 <p>
-Luxury watch showcase inspired by premium brands with cinematic transitions, immersive scrolling and 3D interactions.
+Cinematic luxury watch showcase featuring high-definition 3D product viewports, smooth scroll-driven animations, and responsive layout scaling.
 </p>
 
 <p>
-<strong>Tech Stack:</strong><br>
-<code>Next.js</code> • <code>React</code> • <code>Three.js</code> • <code>Framer Motion</code>
+<strong>Key Stack:</strong> <code>Next.js</code> • <code>React</code> • <code>Three.js</code> • <code>GSAP</code> • <code>Framer Motion</code>
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">👕 ClosetBridge</h3>
+<h3 align="center">👕 ClosetBridge (AI Donation)</h3>
 
 <p align="center">
   <a href="https://github.com/psoumojit40/ClosetBridge"><img src="https://img.shields.io/badge/GitHub_Repo-00FF88?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 <p>
-AI-powered donation platform connecting donors with NGOs using computer vision for clothing quality assessment.
+Computer-vision empowered clothing donation platform connecting donors directly with verified NGOs, featuring automated condition verification.
 </p>
 
 <p>
-<strong>Tech Stack:</strong><br>
-<code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>InceptionV3</code>
+<strong>Key Stack:</strong> <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>InceptionV3 AI</code>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🏢 Team Hub</h3>
+<h3 align="center">🏢 Team Hub (Enterprise)</h3>
 
 <p align="center">
   <a href="https://github.com/psoumojit40/Team_HUB"><img src="https://img.shields.io/badge/GitHub_Repo-00FF88?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 <p>
-Enterprise leave management platform featuring RBAC, secure authentication and AI-powered assistance.
+Full-stack enterprise leave management and team operations platform built with secure RBAC, JWT authentication, and AI assistant capabilities.
 </p>
 
 <p>
-<strong>Tech Stack:</strong><br>
-<code>Next.js</code> • <code>TypeScript</code> • <code>Express</code> • <code>MongoDB</code>
+<strong>Key Stack:</strong> <code>Next.js</code> • <code>TypeScript</code> • <code>Express.js</code> • <code>MongoDB</code>
 </p>
 
 </td>
@@ -236,7 +248,8 @@ Enterprise leave management platform featuring RBAC, secure authentication and A
 
 ---
 
-# 📊 GitHub Analytics
+<!-- 📊 GITHUB METRICS DASHBOARD -->
+# 📊 GitHub Analytics &amp; Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psoumojit40&show_icons=true&count_private=true&hide_border=true&border_radius=12&theme=github_dark&title_color=00ff88&icon_color=00ff88"/>
@@ -251,7 +264,7 @@ Enterprise leave management platform featuring RBAC, secure authentication and A
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=psoumojit40&bg_color=0d1117&color=00ff88&line=00ff88&point=00e5ff&hide_border=true"/>
@@ -271,6 +284,7 @@ Enterprise leave management platform featuring RBAC, secure authentication and A
 
 ---
 
+<!-- 💬 DAILY DEV QUOTE -->
 # 💬 Daily Dev Quote
 
 <p align="center">
@@ -279,51 +293,27 @@ Enterprise leave management platform featuring RBAC, secure authentication and A
 
 ---
 
-# 💼 What I Love Building
-
-✔ Premium Frontend Experiences  
-✔ Interactive 3D Websites  
-✔ Enterprise Full Stack Applications  
-✔ Beautiful UI Systems  
-✔ High Performance Interfaces  
-✔ Developer Tools  
-✔ AI Assisted Applications  
-
----
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
-</p>
-
-# 🌱 Currently Learning
+<!-- 💼 WHAT I LOVE BUILDING & PHILOSOPHY -->
+# 🏆 Engineering Philosophy &amp; Core Pillars
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🌌 3D Web
-Three.js<br>
-React Three Fiber<br>
-WebGL<br>
-GLSL
+### 🎨 1. Exceptional UX
+Focusing on intuitive user flows, micro-interactions, responsive typography, and visual polish.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### ⚡ Frontend
-Next.js<br>
-Framer Motion<br>
-GSAP<br>
-Performance
+### ⚡ 2. High Performance
+Optimizing bundle size, rendering performance, frame rates (60 FPS 3D canvas), and asset loading.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🚀 Backend
-Scalable APIs<br>
-Authentication<br>
-Redis<br>
-PostgreSQL
+### 🧩 3. Clean Architecture
+Writing modular, maintainable, self-documenting code with strict TypeScript type safety.
 
 </td>
 </tr>
@@ -331,27 +321,18 @@ PostgreSQL
 
 ---
 
-# 🏆 Developer Philosophy
+<!-- 🎯 2026 ROADMAP CHECKLIST -->
+# 🎯 2026 Growth Roadmap
 
-> **I believe great software is not only functional—it should also be beautiful, intuitive, and memorable.**
-
-Every project I build is guided by three principles:
-- 🎨 Exceptional User Experience
-- ⚡ High Performance
-- 🧩 Clean & Maintainable Architecture
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-grade SaaS applications
-- 🌍 Contribute to Open Source projects
-- 🌌 Master advanced Three.js and React Three Fiber
-- 📈 Deepen expertise in scalable backend systems
-- 🤝 Collaborate with developers worldwide
+- [x] ⚡ Launch 3D Interactive Portfolio &amp; Custom SVG Profile Engine
+- [ ] 🚀 Build production-grade Full Stack SaaS applications
+- [ ] 🌍 Contribute actively to top Open Source projects &amp; libraries
+- [ ] 🌌 Master advanced Shader programming (`GLSL`) &amp; WebGL shaders
+- [ ] 📈 Deepen expertise in high-concurrency backend architecture
 
 ---
 
+<!-- ⚡ BEYOND CODING -->
 # ⚡ Beyond Coding
 
 <table>
@@ -360,21 +341,21 @@ Every project I build is guided by three principles:
 
 🎮
 ### Gaming
-I enjoy exploring story-driven games and creative worlds.
+Exploring open-world, story-driven games and immersive 3D art styles.
 
 </td>
 <td align="center" width="33%">
 
 🎵
 ### Music
-Music helps me stay focused while designing and developing.
+Cyberpunk, synthwave &amp; lofi playlists that fuel deep focus coding sessions.
 
 </td>
 <td align="center" width="33%">
 
 🎌
 ### Anime
-Inspired by great storytelling, creativity, and visual design.
+Drawing inspiration from world-building, animation frames &amp; visual storytelling.
 
 </td>
 </tr>
@@ -382,6 +363,7 @@ Inspired by great storytelling, creativity, and visual design.
 
 ---
 
+<!-- 🤝 LET'S CONNECT -->
 # 🤝 Let's Connect
 
 <p align="center">
@@ -399,17 +381,17 @@ Inspired by great storytelling, creativity, and visual design.
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <b>💬 Open to</b><br>
-  Full Stack Development • Frontend Engineering • Open Source • Freelance • Collaborations
+  <b>💬 Open To Opportunities:</b><br>
+  <code>Full Stack Development</code> • <code>Frontend Engineering</code> • <code>3D Web Development</code> • <code>Open Source &amp; Collaborations</code>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" opacity="0.8"/>
+  <img src="./assets/footer.svg" width="100%" />
 </p>
 
 <p align="center">
