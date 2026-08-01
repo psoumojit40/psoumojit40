@@ -5,7 +5,7 @@
 
 <!-- ⚡ ANIMATED HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/banner.svg?v=2" width="100%" />
+  <img src="./assets/banner.svg?v=3" width="100%" />
 </p>
 
 <br>
@@ -76,14 +76,14 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 <td width="40%" align="center" valign="middle">
 
 <!-- 🪪 SWINGING LANYARD SVG -->
-<img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/lanyard.svg?v=1" width="380" />
+<img src="./assets/lanyard.svg?v=3" width="380" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/divider.svg" width="100%"/>
+  <img src="./assets/divider.svg?v=3" width="100%"/>
 </p>
 
 <!-- 🚀 CURRENT FOCUS & LEARNING MATRIX -->
@@ -157,7 +157,7 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/divider.svg" width="100%"/>
+  <img src="./assets/divider.svg?v=3" width="100%"/>
 </p>
 
 <!-- 🌟 FEATURED PROJECTS -->
@@ -252,14 +252,14 @@ Full-stack enterprise leave management and team operations platform built with s
 # 📊 GitHub Analytics &amp; Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psoumojit40&show_icons=true&count_private=true&hide_border=true&border_radius=12&theme=github_dark&title_color=00ff88&icon_color=00ff88"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=psoumojit40&show_icons=true&count_private=true&hide_border=true&border_radius=12&theme=github_dark&title_color=00ff88&icon_color=00ff88"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psoumojit40&theme=github-dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psoumojit40&layout=compact&hide_border=true&theme=github_dark&title_color=00ff88"/>
+  <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psoumojit40&layout=compact&hide_border=true&theme=github_dark&title_color=00ff88"/>
 </p>
 
 ---
@@ -391,7 +391,7 @@ Drawing inspiration from world-building, animation frames &amp; visual storytell
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psoumojit40/psoumojit40/assets/assets/footer.svg" width="100%" />
+  <img src="./assets/footer.svg?v=3" width="100%" />
 </p>
 
 <p align="center">

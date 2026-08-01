@@ -1,0 +1,183 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06090e" />
+      <stop offset="50%" stop-color="#0a1017" />
+      <stop offset="100%" stop-color="#05070a" />
+    </linearGradient>
+
+    <!-- Neon Accent Gradients -->
+    <linearGradient id="neon-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88" />
+      <stop offset="100%" stop-color="#00E5FF" />
+    </linearGradient>
+
+    <linearGradient id="neon-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B026FF" />
+      <stop offset="100%" stop-color="#00E5FF" />
+    </linearGradient>
+
+    <!-- Laser Scanner Line Gradient -->
+    <linearGradient id="scanner-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF88" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00FF88" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00FF88" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="glow-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Clip Path for Scanner -->
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="1200" height="520" rx="16" />
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scan {
+      0% { transform: translateY(-50px); }
+      100% { transform: translateY(550px); }
+    }
+    @keyframes pulse-bg {
+      0%, 100% { opacity: 0.12; }
+      50% { opacity: 0.22; }
+    }
+    @keyframes float-particle {
+      0% { transform: translateY(0px) scale(1); opacity: 0.3; }
+      50% { transform: translateY(-25px) scale(1.3); opacity: 0.8; }
+      100% { transform: translateY(-50px) scale(1); opacity: 0.3; }
+    }
+    @keyframes neon-flicker {
+      0%, 100% { opacity: 1; text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88; }
+      92% { opacity: 1; text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88; }
+      93% { opacity: 0.3; text-shadow: none; }
+      94% { opacity: 1; text-shadow: 0 0 10px #00ff88; }
+      96% { opacity: 0.2; text-shadow: none; }
+      97% { opacity: 1; text-shadow: 0 0 12px #00ff88; }
+    }
+    @keyframes gradient-shift {
+      0% { stop-color: #00FF88; }
+      50% { stop-color: #00E5FF; }
+      100% { stop-color: #00FF88; }
+    }
+
+    .cursor { animation: blink 0.9s infinite; }
+    .scanner-line { animation: scan 4s linear infinite; }
+    .grid-lines { animation: pulse-bg 6s ease-in-out infinite; }
+    .p1 { animation: float-particle 4s ease-in-out infinite; }
+    .p2 { animation: float-particle 5s ease-in-out infinite 1.5s; }
+    .p3 { animation: float-particle 4.5s ease-in-out infinite 0.7s; }
+    .flicker { animation: neon-flicker 5s infinite; }
+  </style>
+
+  <g clip-path="url(#banner-clip)">
+    <!-- Base Background -->
+    <rect width="1200" height="520" fill="url(#bg-grad)" rx="16" stroke="#00FF88" stroke-width="1.5" stroke-opacity="0.3"/>
+
+    <!-- Cyber Grid Overlay -->
+    <g class="grid-lines" stroke="#00FF88" stroke-width="0.8" opacity="0.15">
+      <!-- Horizontal Lines -->
+      <line x1="0" y1="80" x2="1200" y2="80"/>
+      <line x1="0" y1="160" x2="1200" y2="160"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+      <line x1="0" y1="320" x2="1200" y2="320"/>
+      <line x1="0" y1="400" x2="1200" y2="400"/>
+      <line x1="0" y1="480" x2="1200" y2="480"/>
+      <!-- Vertical Lines -->
+      <line x1="150" y1="0" x2="150" y2="520"/>
+      <line x1="300" y1="0" x2="300" y2="520"/>
+      <line x1="450" y1="0" x2="450" y2="520"/>
+      <line x1="600" y1="0" x2="600" y2="520"/>
+      <line x1="750" y1="0" x2="750" y2="520"/>
+      <line x1="900" y1="0" x2="900" y2="520"/>
+      <line x1="1050" y1="0" x2="1050" y2="520"/>
+    </g>
+
+    <!-- Floating Particles -->
+    <circle class="p1" cx="200" cy="180" r="3" fill="#00FF88" filter="url(#glow-soft)"/>
+    <circle class="p2" cx="950" cy="120" r="4" fill="#00E5FF" filter="url(#glow-soft)"/>
+    <circle class="p3" cx="1100" cy="380" r="2.5" fill="#B026FF" filter="url(#glow-soft)"/>
+    <circle class="p1" cx="150" cy="420" r="3.5" fill="#00FF88" filter="url(#glow-soft)"/>
+
+    <!-- Left Side: Terminal & Main Header -->
+    <!-- Mac-style Terminal Header Window -->
+    <rect x="50" y="45" width="620" height="430" rx="12" fill="#0D1117" stroke="#00FF88" stroke-opacity="0.3" stroke-width="1.2"/>
+    
+    <!-- Window Bar -->
+    <path d="M 50 57 A 12 12 0 0 1 62 45 L 658 45 A 12 12 0 0 1 670 57 L 670 85 L 50 85 Z" fill="#161B22"/>
+    <circle cx="75" cy="65" r="5.5" fill="#FF5F56"/>
+    <circle cx="93" cy="65" r="5.5" fill="#FFBD2E"/>
+    <circle cx="111" cy="65" r="5.5" fill="#27C93F"/>
+    
+    <!-- Terminal Prompt Line -->
+    <text x="135" y="70" fill="#8B949E" font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="600">soumojit@developer:~ $ cat profile.config</text>
+
+    <!-- Terminal Content inside Window -->
+    <!-- Subtitle / Name -->
+    <text x="80" y="135" fill="#8B949E" font-family="'Fira Code', monospace" font-size="14">// CREATIVE FULL STACK DEVELOPER</text>
+    
+    <!-- Main Glowing Name -->
+    <text x="80" y="190" fill="url(#neon-green)" font-family="'Inter', 'Segoe UI', sans-serif" font-size="44" font-weight="900" letter-spacing="2" filter="url(#glow-green)">SOUMOJIT PAUL</text>
+
+    <!-- Tagline & Description -->
+    <text x="80" y="235" fill="#E6EDF3" font-family="'Fira Code', monospace" font-size="16" font-weight="600">
+      ⚡ Crafting Immersive <tspan fill="#00FF88">3D Web</tspan> &amp; <tspan fill="#00E5FF">Next.js</tspan> Products
+    </text>
+
+    <!-- Specs Box (JSON-style Terminal block) -->
+    <rect x="80" y="260" width="560" height="135" rx="8" fill="#05080c" stroke="#30363D" stroke-width="1"/>
+    
+    <text x="100" y="288" fill="#B026FF" font-family="'Fira Code', monospace" font-size="13" font-weight="600">const <tspan fill="#00FF88">developer</tspan> = {</text>
+    <text x="120" y="312" fill="#8B949E" font-family="'Fira Code', monospace" font-size="13">role: <tspan fill="#00E5FF">"Full Stack &amp; UI Engineer"</tspan>,</text>
+    <text x="120" y="334" fill="#8B949E" font-family="'Fira Code', monospace" font-size="13">specialties: [<tspan fill="#00FF88">"Three.js"</tspan>, <tspan fill="#00FF88">"React"</tspan>, <tspan fill="#00FF88">"Node.js"</tspan>],</text>
+    <text x="120" y="356" fill="#8B949E" font-family="'Fira Code', monospace" font-size="13">status: <tspan fill="#FFBD2E">"Building the future of web ✨"</tspan></text>
+    <text x="100" y="378" fill="#B026FF" font-family="'Fira Code', monospace" font-size="13">};</text>
+
+    <!-- Active Cursor line -->
+    <text x="80" y="430" fill="#00FF88" font-family="'Fira Code', monospace" font-size="15" font-weight="700">&gt; READY_FOR_COLLABORATION<tspan class="cursor" fill="#00FF88">_</tspan></text>
+
+    <!-- Right Side: Interactive Code Card & Cyber Badges -->
+    <!-- Code Editor Card -->
+    <rect x="710" y="45" width="440" height="300" rx="12" fill="#0D1117" stroke="#00E5FF" stroke-opacity="0.4" stroke-width="1.2"/>
+    <path d="M 710 57 A 12 12 0 0 1 722 45 L 1138 45 A 12 12 0 0 1 1150 57 L 1150 85 L 710 85 Z" fill="#161B22"/>
+    <text x="730" y="70" fill="#00E5FF" font-family="'Fira Code', monospace" font-size="13" font-weight="600">⚡ BuildApp.jsx</text>
+
+    <!-- JSX Code snippet inside right card -->
+    <text x="730" y="120" fill="#FF7B72" font-family="'Fira Code', monospace" font-size="13">import <tspan fill="#E6EDF3">{ Experience }</tspan> from <tspan fill="#A5D6FF">'@three/fiber'</tspan></text>
+    <text x="730" y="148" fill="#FF7B72" font-family="'Fira Code', monospace" font-size="13">export default function <tspan fill="#D2A8FF">App</tspan>() {</text>
+    <text x="750" y="176" fill="#79C0FF" font-family="'Fira Code', monospace" font-size="13">  return (</text>
+    <text x="770" y="204" fill="#7EE787" font-family="'Fira Code', monospace" font-size="13">    &lt;<tspan fill="#79C0FF">Canvas</tspan> <tspan fill="#D2A8FF">camera</tspan>={{ position: [0, 0, 5] }}&gt;</text>
+    <text x="790" y="232" fill="#7EE787" font-family="'Fira Code', monospace" font-size="13">      &lt;<tspan fill="#79C0FF">AmbientLight</tspan> <tspan fill="#D2A8FF">intensity</tspan>={1.5} /&gt;</text>
+    <text x="790" y="260" fill="#7EE787" font-family="'Fira Code', monospace" font-size="13">      &lt;<tspan fill="#79C0FF">CyberMesh</tspan> <tspan fill="#D2A8FF">glow</tspan>=<tspan fill="#A5D6FF">"#00FF88"</tspan> /&gt;</text>
+    <text x="770" y="288" fill="#7EE787" font-family="'Fira Code', monospace" font-size="13">    &lt;/<tspan fill="#79C0FF">Canvas</tspan>&gt;</text>
+    <text x="750" y="316" fill="#79C0FF" font-family="'Fira Code', monospace" font-size="13">  )</text>
+    <text x="730" y="335" fill="#FF7B72" font-family="'Fira Code', monospace" font-size="13">}</text>
+
+    <!-- Flickering Neon Sign Card (Bottom Right) -->
+    <rect x="710" y="365" width="440" height="110" rx="12" fill="#0D1117" stroke="#B026FF" stroke-opacity="0.4" stroke-width="1.2"/>
+    <text class="flicker" x="930" y="415" text-anchor="middle" fill="#00FF88" font-family="'Fira Code', monospace" font-size="17" font-weight="900" letter-spacing="3">⚡ KEEP CODING • KEEP GROWING ⚡</text>
+    <text x="930" y="445" text-anchor="middle" fill="#8B949E" font-family="'Fira Code', monospace" font-size="13">React • Next.js • Three.js • Node.js • TypeScript</text>
+
+    <!-- Holographic Scanner Line Sweeping Down Banner -->
+    <rect class="scanner-line" x="0" y="0" width="1200" height="15" fill="url(#scanner-grad)"/>
+  </g>
+</svg>
