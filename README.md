@@ -278,7 +278,7 @@ A modern, full-featured GST billing, inventory management, and tax invoice gener
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=psoumojit40&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=psoumojit40&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=psoumojit40&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 </p>
 
 <br>
@@ -292,7 +292,7 @@ A modern, full-featured GST billing, inventory management, and tax invoice gener
 # 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=psoumojit40&bg_color=0d1117&color=00ff88&line=00ff88&point=00e5ff&hide_border=true"/>
+  <img width="95%" src="https://ghchart.rshah.org/00ff88/psoumojit40" alt="Contribution Graph" />
 </p>
 
 ---
