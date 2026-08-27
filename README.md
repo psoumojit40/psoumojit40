@@ -244,6 +244,31 @@ Full-stack enterprise leave management and team operations platform built with s
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧾 E-Billing System</h3>
+
+<p align="center">
+  <a href="https://e-billing-system-eta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://github.com/psoumojit40/E-Billing-System"><img src="https://img.shields.io/badge/GitHub_Repo-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p>
+A modern, full-featured GST billing, inventory management, and tax invoice generation platform built with a decoupled architecture.
+</p>
+
+<p>
+<strong>Key Stack:</strong> <code>React</code> • <code>TypeScript</code> • <code>TailwindCSS</code> • <code>Node.js</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
