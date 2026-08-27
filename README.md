@@ -12,7 +12,7 @@
 
 <!-- 🎯 TYPING SVG HEADER & BADGES -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Hello+World!+%F0%9F%91%8B;I'm+Soumojit+Paul;Full+Stack+Developer;Building+Immersive+3D+Web+Experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Three.js;Always+Learning+Something+New." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Hello+World!+%F0%9F%91%8B;I'm+Soumojit+Paul;Full+Stack+Developer;Building+Immersive+Web+Experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+PHP;Always+Learning+Something+New." />
 </h1>
 
 <p align="center">
@@ -52,24 +52,24 @@
 ```diff
 + Full Stack Developer & UI Engineer
 + Passionate about immersive web experiences
-+ Building modern products using React, Next.js and Three.js
-+ Focused on 3D Web Graphics, Performance and Scalability
-+ Always learning advanced frontend technologies
++ Building modern products using React, Next.js, Laravel and PHP
++ Focused on Modern Web Architecture, Performance and Scalability
++ Always learning advanced backend & frontend technologies
 ```
 
 <br>
 
-I’m **Soumojit Paul**, an MCA student at **Future Institute of Engineering and Management (FIEM)** and a passionate **Full Stack Developer** specializing in modern JavaScript &amp; 3D web technologies.
+I’m **Soumojit Paul**, an MCA student at **Future Institute of Engineering and Management (FIEM)** and a passionate **Full Stack Developer** specializing in modern web technologies including PHP, Laravel, and JavaScript.
 
-My primary focus is creating **premium digital experiences** using **React**, **Next.js**, **Three.js**, **Framer Motion**, and scalable backend services.
+My primary focus is creating **premium digital experiences** using **React**, **Next.js**, **Three.js**, **Laravel**, and scalable backend services with **PHP**.
 
-Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and interactive user experiences to push the boundaries of what can be achieved on the web.
+Currently, I'm exploring advanced **web architectures**, robust backend systems with Laravel, and interactive user experiences to push the boundaries of what can be achieved on the web.
 
 <br>
 
 <!-- 💻 CYBER TERMINAL STATUS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=System.init(%22Soumojit+Paul%22);;Location%3A+Kolkata%2C+India;;Status%3A+Building+3D+Web+Experiences+%E2%9A%A1;;Stack%3A+Next.js+%E2%80%A2+Three.js+%E2%80%A2+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=500&height=80&lines=System.init(%22Soumojit+Paul%22);;Location%3A+Kolkata%2C+India;;Status%3A+Building+Web+Experiences+%E2%9A%A1;;Stack%3A+Next.js+%E2%80%A2+Laravel+%E2%80%A2+PHP" />
 </p>
 
 </td>
@@ -104,9 +104,9 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 
 ### 📚 Currently Exploring
 - 🌀 **Three.js &amp; R3F**: Custom shader materials (`GLSL`), post-processing &amp; lighting.
-- ⚡ **Modern Frontend**: Next.js App Router, Server Actions &amp; Performance Tuning.
+- ⚡ **Modern Frontend**: Next.js App Router, Blade Templates &amp; Performance Tuning.
 - 🎨 **Motion Design**: Framer Motion, GSAP ScrollTrigger &amp; Micro-interactions.
-- 🚀 **Scalable Backend**: Redis caching, PostgreSQL schema optimization &amp; Docker.
+- 🚀 **Scalable Backend**: Laravel Ecosystem, PHP, Redis caching, &amp; Docker.
 
 </td>
 </tr>
@@ -124,13 +124,13 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
   <p><code>React</code> • <code>Next.js</code></p>
   <p><code>TypeScript</code> • <code>JavaScript</code></p>
   <p><code>Three.js</code> • <code>TailwindCSS</code></p>
-  <p><code>Redux Toolkit</code></p>
+  <p><code>Redux Toolkit</code> • <code>Blade</code></p>
 </td>
 <td width="25%" align="center" valign="top">
   <h4>⚙ Backend</h4>
   <p><code>Node.js</code> • <code>Express.js</code></p>
+  <p><code>PHP</code> • <code>Laravel</code></p>
   <p><code>REST APIs</code> • <code>JWT Auth</code></p>
-  <p><code>Server Actions</code></p>
   <p><code>Microservices</code></p>
 </td>
 <td width="25%" align="center" valign="top">
@@ -153,7 +153,7 @@ Currently, I'm exploring advanced **3D web graphics**, WebGL shaders, and intera
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,redux,tailwind,nodejs,express,postgres,mongodb,redis,git,github,vscode,figma&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,redux,tailwind,php,laravel,nodejs,express,postgres,mongodb,redis,git,github,vscode,figma&perline=9"/>
 </p>
 
 <p align="center">
@@ -385,7 +385,7 @@ Drawing inspiration from world-building, animation frames &amp; visual storytell
 
 <p align="center">
   <b>💬 Open To Opportunities:</b><br>
-  <code>Full Stack Development</code> • <code>Frontend Engineering</code> • <code>3D Web Development</code> • <code>Open Source &amp; Collaborations</code>
+  <code>Full Stack Development</code> • <code>Laravel &amp; PHP</code> • <code>Frontend Engineering</code> • <code>Open Source &amp; Collaborations</code>
 </p>
 
 ---
