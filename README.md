@@ -289,14 +289,6 @@ A modern, full-featured GST billing, inventory management, and tax invoice gener
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/00ff88/psoumojit40" alt="Contribution Graph" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
